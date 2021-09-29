@@ -25,4 +25,4 @@ Upload on Pdisk by Url, File and also by direct forward post from other channel.
 
 ##### Credit
 
-- Me [Phnx BINNER](https://github.com/phnx) For This Repo
+- Me [Phnx BINNER](https://github.com/phnxXD) For This Repo
